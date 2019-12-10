@@ -1,0 +1,80 @@
+/* thead {
+    background-color: red;
+}
+
+table {
+    border-radius: 30px;
+} */
+
+/* .table3 {
+    background-color: blue;
+    width: 700px;
+    text-align: left;
+    border-collapse: collapse;
+    border: 2px solid white;
+}
+
+td {
+    padding: 10px 0 10px 20px;
+    color: white;
+    border: 1px solid red;
+    width: 20%;
+}
+
+th {
+    padding: 12px 0 12px 20px;
+    color: yellow;
+} */
+
+
+/*{
+  box-sizing: border-box;
+}
+.d-table{
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+.d-tr{
+  display: table-row;
+}
+.d-td{
+  display: table-cell;
+  text-align: center;
+  border: none;
+  border: 1px solid #ccc;
+  vertical-align: middle;
+}
+.d-td:not(.no-p){
+  padding: 4px;
+} */
+
+
+.d-table{
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.d-tr{
+  display: table-row;
+  }
+
+  .d-td {
+  display: table-cell;
+  text-align: center;
+  border: none;
+  vertical-align: middle;
+  width: 18%;
+}
+
+.color-grey {
+background-color: rgb(206, 197, 197);
+}
+
+.d-td {
+height: 50px;
+}
+
+
